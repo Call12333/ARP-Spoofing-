@@ -42,3 +42,9 @@ Dispositivos Objetivo: Router y Switch Cisco
 Lenguaje: Python
 Librería Principal: Scapy
 Topología: Red local controlada (LAN)
+
+_____________________________________________________________________________________________________________________________________________
+
+Lab Environment 🧪
+
+Attacking Operating System: Kali Linux Target Devices: Cisco Router and Switch Language: Python Main Library: Scapy Topology: Controlled Local Area Network (LAN)
