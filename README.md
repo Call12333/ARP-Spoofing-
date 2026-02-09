@@ -34,3 +34,11 @@ Observe the behavior of the control plane in response to malformed traffic.
 Reinforce practical knowledge in network security and traffic analysis.
 
 ______________________________________________________________________________________________________________________________________________
+
+Entorno de Laboratorio 🧪
+
+Sistema Operativo Atacante: Kali Linux
+Dispositivos Objetivo: Router y Switch Cisco
+Lenguaje: Python
+Librería Principal: Scapy
+Topología: Red local controlada (LAN)
